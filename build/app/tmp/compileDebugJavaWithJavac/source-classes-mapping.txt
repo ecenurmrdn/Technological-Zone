@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/budget_management/BuildConfig.java
+ com.example.budget_management.BuildConfig
+com/example/budget_management/MainActivity.java
+ com.example.budget_management.MainActivity
